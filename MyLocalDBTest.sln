@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLocalDBTest", "MyLocalDBTest\MyLocalDBTest.csproj", "{DA43EF2A-E00E-47A1-B2F5-8BD169A9B8AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA43EF2A-E00E-47A1-B2F5-8BD169A9B8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA43EF2A-E00E-47A1-B2F5-8BD169A9B8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA43EF2A-E00E-47A1-B2F5-8BD169A9B8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA43EF2A-E00E-47A1-B2F5-8BD169A9B8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2DE0E3A-A7ED-40AE-8D39-78441D75E01D}
+	EndGlobalSection
+EndGlobal
